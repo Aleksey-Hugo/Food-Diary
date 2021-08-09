@@ -1,2 +1,2 @@
-# Dnevnik-pitania
- Приложение на python kivy для записи рациона питания
+# Food-Diaru
+Андроид Приложение на python kivy для записи рациона питания
