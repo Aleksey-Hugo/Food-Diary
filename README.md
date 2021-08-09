@@ -1,2 +1,2 @@
-# Food-Diaru
+# Food-Diary
 Андроид Приложение на python kivy для записи рациона питания
