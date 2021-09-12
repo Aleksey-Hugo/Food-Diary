@@ -4,7 +4,7 @@
 title = Food Diary
 
 # (str) Package name
-package.name = Food Diary
+package.name = food diary
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain =
