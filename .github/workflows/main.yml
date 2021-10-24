@@ -4,7 +4,7 @@ on: [push, pull_request]
 jobs:
  # Build job. Builds app for Android with Buildozer
   build-android:
- name: Food Diary
+ name: Food-Diary
     runs-on: ubuntu-latest
 
     steps:
